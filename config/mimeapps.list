@@ -1,0 +1,4 @@
+
+[Default Applications]
+inode/directory=Thunar.desktop
+x-scheme-handler/discord=vesktop.desktop
